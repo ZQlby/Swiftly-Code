@@ -1,8 +1,10 @@
 # Swiftly-Code
-learning swift from swiftlycode.com. 
+learning swift from https://swiftlycode.com/
 
-thanks for ur service.--learning is always free.
+thanks for ur service--learning is always free
 
 following the practices in https://www.youtube.com/channel/UC5X2lhiDZ2GZlcjVi_1_-nQ
 
-enjoy it and suit urself.
+enjoy it and suit urself
+
+thx again
